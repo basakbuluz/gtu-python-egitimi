@@ -20,7 +20,7 @@
 ## WEEK 2
 
 ### Pandas & NumPy Basics
-1. [pandas-numpy_tutorial.ipynb](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/pandas-numpy_tutorial.ipynb)
+1. [pandas-numpy_tutorial.ipynb](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/pandas_numpy_tutorial.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/pandas-numpy_tutorial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/pandas_numpy_tutorial.ipynb)
 
