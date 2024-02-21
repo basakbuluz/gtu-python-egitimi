@@ -24,3 +24,8 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/pandas_numpy_tutorial.ipynb)
 
+### PS2 - Pandas Exercise 
+1. [PS2_Pandas_Exercise.ipynb](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/PS2_Pandas_Exercise.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/PS2_Pandas_Exercise.ipynb)
+
