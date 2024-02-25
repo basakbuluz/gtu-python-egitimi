@@ -31,6 +31,6 @@
 
 ## WEEK 3
 ### Data Analysis § Visualization
-1. [Feature Engineering_HousePrices_Exercise.ipynb](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/Feature Engineering_HousePrices_Exercise.ipynb)
+1. [Feature_Engineering_HousePrices_Exercise.ipynb](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/Feature_Engineering_HousePrices_Exercise.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/Feature Engineering_HousePrices_Exercise.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/Feature_Engineering_HousePrices_Exercise.ipynb)
