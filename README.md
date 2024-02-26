@@ -29,8 +29,26 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/PS2_Pandas_Exercise.ipynb)
 
+### PS2 - Pandas Exercise Solution
+1. [PS2_Pandas_Exercise_Solution.ipynb](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/PS2_Pandas_Exercise_Solution.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/PS2_Pandas_Exercise_Solution.ipynb)
+
+
 ## WEEK 3
 ### Data Analysis § Visualization
 1. [Feature_Engineering_HousePrices_Exercise.ipynb](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/Feature_Engineering_HousePrices_Exercise.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/Feature_Engineering_HousePrices_Exercise.ipynb)
+
+2. [Scikitlearn_101.ipynb](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/Scikitlearn_101.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/Scikitlearn_101.ipynb)
+
+3. [Scikitlearn_BreastCancerClassification.ipynb](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/Scikitlearn_BreastCancerClassification.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/Scikitlearn_BreastCancerClassification.ipynb)
+
+4. [Scikitlearn_CarPricePrediction.ipynb](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/Scikitlearn_CarPricePrediction.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/Scikitlearn_CarPricePrediction.ipynb)
