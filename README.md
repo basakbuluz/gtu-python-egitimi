@@ -52,3 +52,8 @@
 4. [Scikitlearn_CarPricePrediction.ipynb](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/Scikitlearn_CarPricePrediction.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/Scikitlearn_CarPricePrediction.ipynb)
+
+### PS3 - Sklearn Exercise 
+1. [PS3_ScikitLearnPractice.ipynb](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/PS3_ScikitLearnPractice.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/basakbuluz/gtu-python-egitimi/blob/main/notebooks/PS3_ScikitLearnPractice.ipynb)
